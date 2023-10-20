@@ -5,7 +5,7 @@
 - 📧 Contate-me por email: vitorrodi12@gmail.com
 - 📲 Contate-me no whatsapp: (49) 99801-2204
 
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/vitor-rodi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </head>
 <body>
