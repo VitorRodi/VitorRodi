@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá, eu sou Vitor Rodi
 
-<!--
-**VitorRodi/VitorRodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Estudante de Ciência da computação.
+- 🚀 Tenho conhecimento Basico em C e C++.
+- 📧 Contate-me por email: vitorrodi12@gmail.com
+- 📲 Contate-me no whatsapp: (49) 99801-2204
 
-Here are some ideas to get you started:
+</head>
+<body>
+    <div class="image-container">
+        <img alt="C++" height="30" width="40" src="https://www.pngfind.com/pngs/m/280-2802676_c-language-global-or-external-variables-with-examples.png">
+        <img alt="C++" height="30" width="40" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png">
+    </div>
+</body>
+</html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
