@@ -11,7 +11,7 @@
 <body>
     <div class="image-container">
         <img alt="C++" height="30" width="40" src="https://www.pngfind.com/pngs/m/280-2802676_c-language-global-or-external-variables-with-examples.png">
-        <img alt="C++" height="30" width="40" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
     </div>
 </body>    
 </html> 
