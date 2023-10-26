@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="image-container">
-        <img alt="C++" height="30" width="40" src="https://www.pngfind.com/pngs/m/280-2802676_c-language-global-or-external-variables-with-examples.png">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
     </div>
 </body>    
