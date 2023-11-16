@@ -14,6 +14,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
     </div>
 </body>     
-</html> 
+</html>  
          
 ![Snake animation](https://github.com/imthedaniel/imthedaniel/blob/output/github-contribution-grid-snake.svg)     
