@@ -17,3 +17,4 @@
 </html>  
          
 ![Snake animation](https://github.com/imthedaniel/imthedaniel/blob/output/github-contribution-grid-snake.svg)     
+ 
