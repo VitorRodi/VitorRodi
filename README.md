@@ -1,6 +1,6 @@
  ## Olá, eu sou Vitor Rodi.   
           
-- 👨‍💻 Estudante de Ciência da computação.              
+- 👨‍💻 Estudante de Ciência da computação.               
 - 🚀 Tenho conhecimento Basico em C e C++.              
 - 📧 Contate-me por email: vitorrodi12@gmail.com.            
     
