@@ -11,7 +11,7 @@
     <div class="image-container">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-       <img src="https://i.pinimg.com/originals/73/22/4f/73224ff83996ff1edc9c3532e965d393.jpg"  />
+       <img src="https://i.pinimg.com/originals/73/22/4f/73224ff83996ff1edc9c3532e965d393.jpg"  height="30" alt="cobol logo"  />
        
     </div>
 </body>     
