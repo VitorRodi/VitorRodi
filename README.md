@@ -11,7 +11,7 @@
     <div class="image-container">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-       <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rech.com.br%2Fpagina%2Ftecnologias&psig=AOvVaw2qx1_GBICi2_5V6f2hNHXb&ust=1710457022922000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMizn5Gr8oQDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rech.com.br%2Fpagina%2Ftecnologias&psig=AOvVaw2qx1_GBICi2_5V6f2hNHXb&ust=1710457022922000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMizn5Gr8oQDFQAAAAAdAAAAABAD"  />
+       <img src="https://i.pinimg.com/originals/73/22/4f/73224ff83996ff1edc9c3532e965d393.jpg"  />
        
     </div>
 </body>     
