@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#071427"/>
+      <stop offset="42%" stop-color="#123a8a"/>
+      <stop offset="75%" stop-color="#0b72b5"/>
+      <stop offset="100%" stop-color="#13c8da"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#48d7ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#48d7ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <path d="M70 18 H390 L425 46 H960 L995 18 H1325 L1380 74 V214 L1325 282 H1010 L977 258 H420 L386 282 H70 L18 224 V78 Z"/>
+    </clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1400" height="300" fill="url(#bg)"/>
+
+    <rect x="-500" width="350" height="300" fill="url(#shine)" opacity=".18" transform="skewX(-18)">
+      <animate attributeName="x" values="-500;1550" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <path d="M-100 250 C250 90 480 110 735 200 S1130 290 1510 80"
+      fill="none" stroke="#7dd3fc" stroke-width="3" stroke-linecap="round"
+      stroke-dasharray="140 50" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0;-380" dur="4s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M-80 125 C230 210 490 205 720 140 S1110 50 1490 135"
+      fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="90 70" opacity=".8">
+      <animate attributeName="stroke-dashoffset" values="0;-320" dur="5s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M-60 220 C280 80 520 95 750 180 S1140 265 1480 105"
+      fill="none" stroke="#d5fbff" stroke-width="1.8" stroke-dasharray="30 110"
+      filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="0;-560" dur="3.5s" repeatCount="indefinite"/>
+    </path>
+
+    <g stroke="#7dd3fc" opacity=".5">
+      <path d="M70 88 H310" stroke-width="2" stroke-dasharray="70 50">
+        <animate attributeName="stroke-dashoffset" values="0;-240" dur="2.5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1040 95 H1330" stroke-width="2" stroke-dasharray="100 50">
+        <animate attributeName="stroke-dashoffset" values="0;-300" dur="2.2s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <circle r="4" fill="white" filter="url(#glow)">
+      <animateMotion dur="4.5s" repeatCount="indefinite"
+        path="M-50 250 C250 100 480 110 735 200 S1130 290 1470 80"/>
+    </circle>
+
+    <circle r="3" fill="#67e8f9">
+      <animateMotion dur="5.7s" begin="-2s" repeatCount="indefinite"
+        path="M-70 125 C235 210 490 205 720 140 S1110 50 1490 135"/>
+    </circle>
+
+    <g transform="translate(110 50) skewX(-28)" fill="#38bdf8">
+      <rect width="22" height="42"/>
+      <rect x="34" width="22" height="42" opacity=".8"/>
+      <rect x="68" width="22" height="42" opacity=".6"/>
+    </g>
+
+    <g transform="translate(1210 220) skewX(-28)" fill="#67e8f9">
+      <rect width="18" height="32"/>
+      <rect x="28" width="18" height="32" opacity=".8"/>
+      <rect x="56" width="18" height="32" opacity=".6"/>
+    </g>
+  </g>
+
+  <path d="M70 18 H390 L425 46 H960 L995 18 H1325 L1380 74 V214 L1325 282 H1010 L977 258 H420 L386 282 H70 L18 224 V78 Z"
+    fill="none" stroke="#38bdf8" stroke-width="3"/>
+
+  <text x="700" y="140" text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800"
+    fill="url(#titleGrad)">Vitor Rodi</text>
+
+  <text x="700" y="185" text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif" font-size="27"
+    fill="#e7f8ff">Software Developer | Computer Science</text>
+</svg>
