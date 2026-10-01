@@ -1,29 +1,129 @@
-   ## Olá, eu sou Vitor Rodi.   
-          
-- 👨‍💻 Estudante de Ciência da computação.               
-- 🚀 C, C++, COBOL, Ruby on Rails & Node              
-- 📧 Contate-me por email: vitorrodi12@gmail.com.            
-     
- <a href="https://www.instagram.com/vitor_rodi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitor-rodi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</head>   
-<body>  
-    <div class="image-container">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLCrmahHl7ysGH9YjnIMyfpk5s1vuRGL6EGLz5ovw67af01c4eYe8nLNfHN7-4M7yRTD_lut_JBib6woOnWmgb-4vlqi8njcgDVEm-FlXphyphenhyphenFD7CoZnFnNaCcLrIrECb_9pyq-7j_3n3E/s1600/BANNER.jpg"  height="30" alt="cobol logo"  />
-       <img src="https://hermes.dio.me/articles/cover/68aa896c-0660-4a60-a1d4-c512ce8cf2ab.png"  height="30" alt="Rubi"  />
-       <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*v2vdfKqD4MtmTSgNP0o5cg.png"  height="30" alt="Rubi"  />
+<div align="center">
 
-       
-       
-       
- </div>
-</body>     
-</html>  
-         
-![Snake animation](https://github.com/imthedaniel/imthedaniel/blob/output/github-contribution-grid-snake.svg)     
-   
-    
- 
-  
+# 👋 Olá, eu sou Vitor Rodi
+
+### Desenvolvedor de Software & Estudante de Ciência da Computação
+
+Construindo aplicações web, SaaS e soluções que resolvem problemas reais.
+
+📍 Santa Catarina, Brasil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor%20Rodi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-rodi/)
+[![Instagram](https://img.shields.io/badge/Instagram-@vitor__rodi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_rodi/)
+[![Email](https://img.shields.io/badge/Email-vitorrodi12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorrodi12@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de **Ciência da Computação**
+
+💻 Desenvolvedor focado em aplicações web, sistemas SaaS e automação de processos.
+
+🚀 Atualmente trabalhando principalmente com **Next.js, TypeScript, React, Node.js, C# e PostgreSQL**.
+
+🧠 Interesse em arquitetura de software, produtos SaaS, inteligência artificial e integração de sistemas.
+
+🛠️ Gosto de transformar problemas reais em soluções simples, funcionais e escaláveis.
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,express" />
+
+### Banco de Dados & Backend as a Service
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" />
+
+### Outras linguagens
+
+<img src="https://skillicons.dev/icons?i=c,cpp,ruby" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,figma" />
+
+</div>
+
+---
+
+## 🧩 O que estou desenvolvendo
+
+### 🏢 SaaS para o mercado imobiliário
+Plataforma multi-tenant para imobiliárias e corretores, com gerenciamento de imóveis, leads, páginas públicas personalizadas e integrações.
+
+`Next.js` `TypeScript` `React` `Prisma` `PostgreSQL` `Supabase`
+
+### 🔧 Deepi
+Ecossistema de ferramentas e automações voltadas para produtividade e engenharia, incluindo aplicações desktop e serviços em nuvem.
+
+`C#` `.NET` `WPF` `Supabase` `PostgreSQL` `REST API`
+
+### 📊 Sistemas de gestão
+Desenvolvimento de sistemas internos para controle de vendas, estoque, clientes, compras, indicadores e geração de documentos.
+
+`React` `Node.js` `Express` `PostgreSQL` `TypeScript`
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+Arquitetura de Software
+Sistemas SaaS Multi-Tenant
+Inteligência Artificial aplicada a produtos
+APIs e integrações
+Cloud & Deploy
+Engenharia de Software
+```
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Entre em contato
+
+**vitorrodi12@gmail.com**
+
+<a href="https://www.linkedin.com/in/vitor-rodi/">LinkedIn</a>
+•
+<a href="https://www.instagram.com/vitor_rodi/">Instagram</a>
+
+<br><br>
+
+<i>Transformando ideias em software.</i>
+
+</div>
