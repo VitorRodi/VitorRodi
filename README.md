@@ -1,148 +1,73 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="Vitor Rodi - Software Developer"/>
+<img width="100%" src="./assets/banner.svg" alt="Vitor Rodi — Software Developer and Computer Science Student" />
 
-<br>
+# Hi, I'm Vitor Rodi
 
-### Desenvolvedor de Software & Estudante de Ciência da Computação
+**Software Developer · Computer Science Student**
 
-Interessado em **engenharia de software, SaaS, automação e Inteligência Artificial**.
+Web applications, SaaS, automation, and applied AI.
 
-<br>
+**Open to international software development opportunities.**
 
-<a href="https://www.linkedin.com/in/vitor-rodi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:vitorrodi12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/vitor_rodi/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[LinkedIn](https://www.linkedin.com/in/vitor-rodi/) · [Email](mailto:vitorrodi12@gmail.com)
 
 </div>
 
-<br>
-
 ---
 
-## Sobre mim
+## About me
 
-Sou estudante de **Ciência da Computação** e desenvolvedor de software.
+I'm a software developer and Computer Science student interested in building useful applications and understanding how systems work.
 
-Tenho interesse em desenvolvimento de aplicações web, arquitetura de sistemas, SaaS, automação e Inteligência Artificial.
+My interests include full-stack web development, software architecture, SaaS, and automation. I'm currently deepening my knowledge of AI agents, LLM integrations, and connecting applications to external APIs and tools.
 
-Atualmente estou aprofundando meus estudos em **Agentes de IA**, integração de LLMs com aplicações, APIs e ferramentas externas.
+I'm looking for opportunities to contribute to an international team, learn from other engineers, and work on practical software challenges.
 
----
+## Selected projects
 
-## Stack
+### [RIVO PageScope](https://github.com/VitorRodi/rivo-pagescope)
+A web performance workbench that turns Lighthouse reports into visual insights.
 
-<div align="center">
+- Analyze page weight, network requests, and performance metrics.
+- Compare baseline and updated reports and export visual summaries.
+- Built with **React, TypeScript, and Vite**, with a local Lighthouse audit workflow.
 
-### Front-end
+### [Sheet Diff](https://github.com/VitorRodi/sheet-diff)
+A browser-based tool for comparing Excel and CSV files.
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=dark" />
+- Match records by a shared identifier, even when rows and columns move.
+- Review added, removed, and changed records, then export the comparison to Excel.
+- Processes spreadsheet data locally in the browser using **JavaScript and ExcelJS**.
 
-<br><br>
+### [Brazil Election Results](https://github.com/VitorRodi/resultado-eleicoes-2026)
+An independent dashboard for exploring official Brazilian election results.
 
-### Back-end
+- Explore national, state, and municipal results with interactive views.
+- Follow candidates and generate PDF and Excel reports.
+- Built with **Next.js, React, and TypeScript**, with server-side validation of signed official data.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet&theme=dark" />
+[View the live dashboard →](https://resultado-eleicoes-2026.vercel.app/)
 
-<br><br>
+## Technologies
 
-### Dados
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express, C#, .NET |
+| Data | PostgreSQL, Supabase, Prisma |
+| Tools | Git, GitHub, Docker, Figma, VS Code, Visual Studio |
+| Additional languages | C, C++, Ruby |
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma&theme=dark" />
+## Currently learning
 
-<br><br>
+- AI agents, tool calling, and LLM integrations
+- Model Context Protocol (MCP) and context engineering
+- Software architecture and multi-tenant SaaS systems
+- API integrations and cloud deployment
 
-### Ferramentas
+## Let's connect
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,figma&theme=dark" />
+I'm interested in software development roles and conversations about web applications, automation, and applied AI.
 
-<br><br>
-
-### Outras linguagens
-
-<img src="https://skillicons.dev/icons?i=c,cpp,ruby&theme=dark" />
-
-</div>
-
-<br>
-
----
-
-## Atualmente estudando
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-1E3A8A?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-0369A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software_Architecture-0F766E?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-- **AI Agents**
-- **LLMs aplicados a software**
-- **Model Context Protocol — MCP**
-- **Tool Calling**
-- **Context Engineering**
-- **Arquitetura de Software**
-- **Sistemas SaaS e Multi-Tenant**
-- **APIs e integrações**
-- **Cloud e Deploy**
-
----
-
-## Interesses
-
-<div align="center">
-
-`Software Engineering`
-&nbsp; • &nbsp;
-`Artificial Intelligence`
-&nbsp; • &nbsp;
-`AI Agents`
-&nbsp; • &nbsp;
-`SaaS`
-&nbsp; • &nbsp;
-`Automation`
-&nbsp; • &nbsp;
-`System Architecture`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### Contato
-
-Desenvolvimento, tecnologia, IA ou novas ideias.
-
-<br>
-
-<a href="https://www.linkedin.com/in/vitor-rodi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vitor_Rodi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vitorrodi12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vitorrodi12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<sub>Software Development • Artificial Intelligence • Automation</sub>
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:1E3A8A,100:0891B2&height=8&section=footer"/>
+**[LinkedIn](https://www.linkedin.com/in/vitor-rodi/)** · **[vitorrodi12@gmail.com](mailto:vitorrodi12@gmail.com)**
