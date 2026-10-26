@@ -1,73 +1,87 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="Vitor Rodi — Software Developer and Computer Science Student" />
+<img width="100%" src="./assets/banner.svg" alt="Vitor Rodi — Software Developer" />
 
-# Hi, I'm Vitor Rodi
+# Turning practical problems into useful software.
 
-**Software Developer · Computer Science Student**
+I'm **Vitor Rodi**, a software developer and Computer Science student building web applications, data tools, and automation.
 
-Web applications, SaaS, automation, and applied AI.
+**React · Next.js · TypeScript · Node.js**
 
-**Open to international software development opportunities.**
+Open to international software development opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/vitor-rodi/) · [Email](mailto:vitorrodi12@gmail.com)
+[**Connect on LinkedIn**](https://www.linkedin.com/in/vitor-rodi/) &nbsp; · &nbsp; [**Get in touch**](mailto:vitorrodi12@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## What I build
 
-I'm a software developer and Computer Science student interested in building useful applications and understanding how systems work.
+I build software that helps people work with data, understand complex information, and simplify everyday tasks. My projects combine interactive interfaces with API integrations, validation, and reporting.
 
-My interests include full-stack web development, software architecture, SaaS, and automation. I'm currently deepening my knowledge of AI agents, LLM integrations, and connecting applications to external APIs and tools.
+- **Web applications** — responsive interfaces and workflows built with React, Next.js, and TypeScript.
+- **Data tools** — dashboards, file comparison, and PDF and Excel reporting.
+- **Automation and integrations** — connecting applications, APIs, and external tools.
 
-I'm looking for opportunities to contribute to an international team, learn from other engineers, and work on practical software challenges.
+## Featured work
 
-## Selected projects
+### Sheet Diff
+**Find what changed in your spreadsheets.**
 
-### [RIVO PageScope](https://github.com/VitorRodi/rivo-pagescope)
-A web performance workbench that turns Lighthouse reports into visual insights.
+Compare Excel and CSV files without manually checking rows. Match records by a shared identifier, review additions, removals, and changes, and export the results to Excel. Spreadsheet processing happens locally in the browser.
 
-- Analyze page weight, network requests, and performance metrics.
-- Compare baseline and updated reports and export visual summaries.
-- Built with **React, TypeScript, and Vite**, with a local Lighthouse audit workflow.
+**JavaScript · ExcelJS · Browser-based processing**
 
-### [Sheet Diff](https://github.com/VitorRodi/sheet-diff)
-A browser-based tool for comparing Excel and CSV files.
+[Explore the project →](https://github.com/VitorRodi/sheet-diff)
 
-- Match records by a shared identifier, even when rows and columns move.
-- Review added, removed, and changed records, then export the comparison to Excel.
-- Processes spreadsheet data locally in the browser using **JavaScript and ExcelJS**.
+---
 
-### [Brazil Election Results](https://github.com/VitorRodi/resultado-eleicoes-2026)
-An independent dashboard for exploring official Brazilian election results.
+### RIVO PageScope
+**Understand what makes a website heavy.**
 
-- Explore national, state, and municipal results with interactive views.
-- Follow candidates and generate PDF and Excel reports.
-- Built with **Next.js, React, and TypeScript**, with server-side validation of signed official data.
+Turn Lighthouse reports into a visual breakdown of page weight, network requests, and performance metrics. Compare reports before and after a change, inspect resource usage, and export a visual summary.
 
-[View the live dashboard →](https://resultado-eleicoes-2026.vercel.app/)
+**React · TypeScript · Vite · Lighthouse**
 
-## Technologies
+[Explore the project →](https://github.com/VitorRodi/rivo-pagescope)
 
-| Area | Technologies |
+---
+
+### Brazil Election Results
+**Make complex public data easier to explore.**
+
+An independent dashboard that brings official Brazilian election results into national, state, and municipal views. Follow candidates, explore interactive visualizations, and generate PDF and Excel reports, with server-side verification of signed official data.
+
+**Next.js · React · TypeScript · API integration · Data visualization**
+
+[View live dashboard →](https://resultado-eleicoes-2026.vercel.app/) &nbsp; · &nbsp; [Explore the code →](https://github.com/VitorRodi/resultado-eleicoes-2026)
+
+---
+
+## Technical toolkit
+
+| | Technologies |
 | --- | --- |
-| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
-| Backend | Node.js, Express, C#, .NET |
-| Data | PostgreSQL, Supabase, Prisma |
-| Tools | Git, GitHub, Docker, Figma, VS Code, Visual Studio |
-| Additional languages | C, C++, Ruby |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| **Backend** | Node.js, Express, C#, .NET |
+| **Database & data access** | PostgreSQL, Supabase, Prisma |
+| **Development tools** | Git, GitHub, Docker, Figma, VS Code, Visual Studio |
 
-## Currently learning
+## Where I'm heading
 
-- AI agents, tool calling, and LLM integrations
-- Model Context Protocol (MCP) and context engineering
-- Software architecture and multi-tenant SaaS systems
-- API integrations and cloud deployment
+I'm expanding my skills in **AI agents, LLM integrations, Model Context Protocol (MCP), and software architecture**, with an interest in applying them to useful products and SaaS workflows.
 
-## Let's connect
+I'm looking to join an international team where I can contribute to web development, collaborate on practical engineering problems, and continue growing as a developer.
 
-I'm interested in software development roles and conversations about web applications, automation, and applied AI.
+---
 
-**[LinkedIn](https://www.linkedin.com/in/vitor-rodi/)** · **[vitorrodi12@gmail.com](mailto:vitorrodi12@gmail.com)**
+<div align="center">
+
+### Have a role where I could contribute?
+
+Let's talk about your team and what you're building.
+
+[**LinkedIn**](https://www.linkedin.com/in/vitor-rodi/) &nbsp; · &nbsp; [**vitorrodi12@gmail.com**](mailto:vitorrodi12@gmail.com)
+
+</div>
