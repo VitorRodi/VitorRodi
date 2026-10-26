@@ -12,11 +12,11 @@ I'm looking for **international software development opportunities** where I can
 
 ## Projects
 
-**[RIVO PageScope](https://github.com/VitorRodi/rivo-pagescope)**  
+[Live demo](https://vitorrodi.github.io/rivo-pagescope/) · **[RIVO PageScope](https://github.com/VitorRodi/rivo-pagescope)**  
 A performance analysis tool that turns Lighthouse reports into resource breakdowns, request waterfalls, and before-and-after comparisons. Includes a local audit workflow and visual report exports.  
 <sub>React · TypeScript · Vite · Lighthouse</sub>
 
-**[Sheet Diff](https://github.com/VitorRodi/sheet-diff)**  
+[Live demo](https://vitorrodi.github.io/sheet-diff/) · **[Sheet Diff](https://github.com/VitorRodi/sheet-diff)**  
 A tool for comparing Excel and CSV files directly in the browser. Matches records across reordered rows and columns, highlights changes, and exports comparison reports without uploading spreadsheet data.  
 <sub>JavaScript · ExcelJS · Browser APIs</sub>
 
