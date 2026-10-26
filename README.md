@@ -1,8 +1,8 @@
-# Vitor Rodi
+# Software Developer
 
-### Software Developer · Computer Science Student
+**Web applications · Data tools · Automation**
 
-I build web applications and tools for working with data. My main stack is **TypeScript, React, Next.js, and Node.js**, with interests in SaaS, automation, and applied AI.
+I'm a software developer and Computer Science student building web applications and tools for working with data. My main stack is **TypeScript, React, Next.js, and Node.js**, with interests in SaaS, automation, and applied AI.
 
 I'm looking for **international software development opportunities** where I can contribute, collaborate, and grow alongside other engineers.
 
@@ -31,7 +31,10 @@ An independent dashboard for exploring official election results across Brazil. 
 TypeScript · JavaScript · React · Next.js · Tailwind CSS · HTML · CSS
 
 **Backend & data**  
-Node.js · Express · C# · .NET · PostgreSQL · Supabase · Prisma
+Node.js · Express · PostgreSQL · Supabase · Prisma
+
+**Additional technologies**  
+C# · .NET
 
 **Tools**  
 Git · GitHub · Docker · Figma
