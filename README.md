@@ -1,48 +1,45 @@
-<img width="100%" src="./assets/banner.svg" alt="Vitor Rodi — Software Developer. Web applications, data tools and automation." />
+# Vitor Rodi
 
-I'm a **software developer and Computer Science student** focused on web applications, data tools, and automation. I work with **React, Next.js, TypeScript, and Node.js**.
+### Software Developer · Computer Science Student
 
-Currently exploring AI agents, LLM integrations, and software architecture. **Open to international software development roles.**
+I build web applications and tools for working with data. My main stack is **TypeScript, React, Next.js, and Node.js**, with interests in SaaS, automation, and applied AI.
+
+I'm looking for **international software development opportunities** where I can contribute, collaborate, and grow alongside other engineers.
 
 [LinkedIn](https://www.linkedin.com/in/vitor-rodi/) · [Email](mailto:vitorrodi12@gmail.com)
 
-## Selected projects
+---
 
-### [Sheet Diff ↗](https://github.com/VitorRodi/sheet-diff)
+## Projects
 
-Compare Excel and CSV files, identify changed records, and export the results. Data stays in the browser.
+**[RIVO PageScope](https://github.com/VitorRodi/rivo-pagescope)**  
+A performance analysis tool that turns Lighthouse reports into resource breakdowns, request waterfalls, and before-and-after comparisons. Includes a local audit workflow and visual report exports.  
+<sub>React · TypeScript · Vite · Lighthouse</sub>
 
-[![Sheet Diff — spreadsheet comparison interface](https://raw.githubusercontent.com/VitorRodi/sheet-diff/main/docs/preview.png)](https://github.com/VitorRodi/sheet-diff)
+**[Sheet Diff](https://github.com/VitorRodi/sheet-diff)**  
+A tool for comparing Excel and CSV files directly in the browser. Matches records across reordered rows and columns, highlights changes, and exports comparison reports without uploading spreadsheet data.  
+<sub>JavaScript · ExcelJS · Browser APIs</sub>
 
-**JavaScript · ExcelJS**  
-Record matching across reordered rows and columns, input validation, and Excel exports.
+**[Brazil Election Results](https://github.com/VitorRodi/resultado-eleicoes-2026)**  
+An independent dashboard for exploring official election results across Brazil. Combines interactive charts, candidate tracking, and PDF and Excel reports with server-side verification of signed source data.  
+<sub>Next.js · React · TypeScript · Recharts</sub>  
+[Live application](https://resultado-eleicoes-2026.vercel.app/)
 
-### [RIVO PageScope ↗](https://github.com/VitorRodi/rivo-pagescope)
+## Technologies
 
-Explore website performance through Lighthouse reports, resource breakdowns, and before-and-after comparisons.
+**Frontend**  
+TypeScript · JavaScript · React · Next.js · Tailwind CSS · HTML · CSS
 
-[![RIVO PageScope — Lighthouse report analysis interface](https://raw.githubusercontent.com/VitorRodi/rivo-pagescope/main/docs/local-audit-verified.png)](https://github.com/VitorRodi/rivo-pagescope)
+**Backend & data**  
+Node.js · Express · C# · .NET · PostgreSQL · Supabase · Prisma
 
-**React · TypeScript · Vite · Lighthouse**  
-Local audits, report parsing, request filtering, and PNG summary exports.
+**Tools**  
+Git · GitHub · Docker · Figma
 
-### [Brazil Election Results ↗](https://github.com/VitorRodi/resultado-eleicoes-2026)
+## Currently exploring
 
-An independent dashboard for exploring official Brazilian election data across national, state, and municipal views.
-
-**Next.js · React · TypeScript · Recharts**  
-Server-side verification of signed data, interactive charts, and PDF and Excel reports.
-
-[Open live application →](https://resultado-eleicoes-2026.vercel.app/)
-
-## Stack
-
-| Frontend | Backend & data | Tools |
-| --- | --- | --- |
-| React · Next.js | Node.js · Express | Git · GitHub |
-| TypeScript · JavaScript | C# · .NET | Docker |
-| Tailwind CSS · HTML · CSS | PostgreSQL · Supabase · Prisma | Figma |
+AI agents, LLM integrations, Model Context Protocol (MCP), and software architecture for SaaS applications.
 
 ---
 
-**Interested in working together?** Reach me on [LinkedIn](https://www.linkedin.com/in/vitor-rodi/) or at [vitorrodi12@gmail.com](mailto:vitorrodi12@gmail.com).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/vitor-rodi/) or at **[vitorrodi12@gmail.com](mailto:vitorrodi12@gmail.com)**.
