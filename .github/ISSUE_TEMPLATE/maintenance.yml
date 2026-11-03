@@ -1,0 +1,37 @@
+name: Maintenance
+description: Propose evidence-backed documentation, test or tooling maintenance.
+body:
+  - type: markdown
+    attributes:
+      value: Identify the README section and the source supporting the correction. Keep skills, experience
+        and project status factual; do not add unverified achievements or personal contact details.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Problem and evidence
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Proposed scope and boundaries
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Verifiable acceptance criteria
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Environment and source context
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation performed or planned
+    validations:
+      required: true
